@@ -37,5 +37,5 @@
 - Presented findings on maternal health data trends at Ministry of Health workshops
 - Conducted training sessions on data collection tools for field officers
 ## Publications
-Contributor to National Guidelines,Strageies,Framework
-Design work plan for different departments 
+- Contributor to National Guidelines,Strageies,Framework
+- Design work plan for different departments 
