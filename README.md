@@ -32,7 +32,7 @@
 
 ## Projects
 ### Secondary data analysis using python 
-
+CODE:/Screen Recording 2025-10-28 111451.mp4
 
 ## Talks & Lectures
 - Presented findings on maternal health data trends at Ministry of Health workshops
