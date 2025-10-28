@@ -1,7 +1,7 @@
 
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Advanced Excel, Power BI, Tableau
 
 ## Education
 - Bachelor of Science  | University Of Kabianga  (_May 2016_2023)								       		
