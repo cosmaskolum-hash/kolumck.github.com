@@ -13,7 +13,7 @@
   
 
 ## Work Experience
-**Data Scientist @ Ministry of Health (_September  2023 - Janauary 2025_)**
+**Data Scientist @ Ministry of Health (_September  2023 - January 2025_)**
 - Developed monitoring and evaluation framework
 - Extracted, visualized, and analyzed data from Kenya Health Information System
 - Designed and deployed data collection tools using KoboCollect
