@@ -1,11 +1,11 @@
 
 # Data Scientist
 #### 3 years Experience 
-
+###Email: cosmaskolum@gmail.com
 #### Technical Skills: Python, SQL, Advanced Excel, Power BI, Tableau
 
 ## Education
-- Bachelor of Science  | University Of Kabianga  (_September 2016_2023)
+- Bachelor of Science  | University Of Kabianga  (_September 2016_2021)
 
 ## Professional Certification
 - Certification in Data Scientist | Africa Centre for Data Science and Analytics (AfriCDSA) (April 2025- Present)
