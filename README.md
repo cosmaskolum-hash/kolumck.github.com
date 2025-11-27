@@ -1,7 +1,7 @@
 
 # Data Scientist
 #### 3 years Experience 
-###Email: cosmaskolum@gmail.com
+Email: cosmaskolum@gmail.com
 #### Technical Skills: Python, SQL, Advanced Excel, Power BI, Tableau
 
 ## Education
